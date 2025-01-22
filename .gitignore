@@ -1,0 +1,23 @@
+# Node.js (Express)
+node_modules/
+npm-debug.log
+yarn-error.log
+pnpm-lock.yaml
+.env
+uploads/
+
+# Python (Flask)
+__pycache__/
+venv/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.DS_Store
+uploads/
+.env
+
+# OS/Editor-specific
+.vscode/
+.idea/
+*.swp

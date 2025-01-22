@@ -1,0 +1,6 @@
+Flask
+pdfplumber
+spacy
+werkzeug
+gunicorn
+requests
